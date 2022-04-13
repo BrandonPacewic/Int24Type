@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2022 Brandon Pacewic
+ *
+ * Developed and tested by Brandon Pacewic
+ * 
+ * int_24.cc
+ */
+
 #ifndef _INT_24_TYPE_C
 #define _INT_24_TYPE_C
 
